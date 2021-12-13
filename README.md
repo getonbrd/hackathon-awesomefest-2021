@@ -36,7 +36,7 @@ El alcance y la documentación de cómo interactuar con la API la pueden encontr
 
 Estaremos resolviendo dudas en el servidor de Discord de Get on Board. Tú y tu equipo pueden unirse en http://www.awesomefest.co/discord.
 
-Nota: Los equipos registrados recibirán soporte de nuestros sponsors directamente en sus canales privados.
+Nota: Los equipos registrados recibirán soporte de los mentores directamente en sus canales privados.
 
 Las personas o equipos no registrados que de todas formas quieran participar del desafío, pueden publicar sus preguntas en el canal abierto #awesome-fest.
 
