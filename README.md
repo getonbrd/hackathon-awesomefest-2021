@@ -43,7 +43,7 @@ Las personas o equipos no registrados que de todas formas quieran participar del
 Nada complicado:
 
 - El código de su aplicación debe estar un repositorio público en Github
-- El repositorio debe incluir el archivo [LICENSE.md](./LICENSE) en este repositorio
+- El repositorio debe incluir el archivo [LICENSE](./LICENSE) en este repositorio
 - Incluir un README.md explicando de que se trata su solución e instrucciones para ejecutarla si fuera el caso
 - Incluir el link a un video de demostración de 1 minuto
 - Soluciones a medias o que no funcionen serán descartadas inmediatamente
