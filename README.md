@@ -8,8 +8,8 @@ Desde ahora y hasta el Miércoles 15 de Diciembre tendrán la oportunidad de dem
 
 ## 🗓 Fechas importantes
 
-- Lunes 13 de Diciembre a las 3 PM UTC: Comienza la competencia!
-- Martes 14 de Diciembre a las 2:50 AM UTC: Envío de la solución!
+- Lunes 13 de Diciembre a las 3 PM UTC: ¡Comienza la competencia!
+- Míercoles 15 de Diciembre a las 2:50 AM UTC: ¡Envío de la solución!
 - Jueves 16 de Diciembre al final del AwesomeFest: ¡Se anuncian los ganadores!
 
 Nota: Los horarios están en UTC así es que hagan la conversión a su hora local.
