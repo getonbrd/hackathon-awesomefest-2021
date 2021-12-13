@@ -28,11 +28,11 @@ Everything is allowed in this world. There are no restrictions whatsoever. You c
 
 ### API
 
-The scope and documentation on how to interact with the API can be found on the website [http://api-doc.getonbrd.com/](http://api-doc.getonbrd.com/).
+The scope and documentation on how to interact with the API can be found on the website [http://api-doc.getonbrd.com/](https://api-doc.getonbrd.com/).
 
 ### The hackathon is 100% virtual and will take place on our Discord server.
 
-We will be answering questions on the Get on Board Discord server. You and your team can join at [http://www.awesomefest.co/discord](http://www.awesomefest.co/discord).
+We will be answering questions on the Get on Board Discord server. You and your team can join at [http://www.awesomefest.co/discord](https://www.awesomefest.co/discord).
 
 Note: Registered teams will receive support from the mentors directly on their private channels.
 
@@ -52,7 +52,7 @@ Nothing complicated:
 
 Create a repository (which should be public on the day of submission) on GitHub with your solution. We recommend that you also use it as part of the development so that everyone in the team can collaborate.
 
-For no-code or low-code solutions include only the README.
+For no-code or low-code solutions include only the README and the link to the video.
 
 ### License
 
