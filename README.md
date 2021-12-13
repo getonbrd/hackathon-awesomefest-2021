@@ -1,5 +1,7 @@
 # Hackathon AwesomeFest 2021
 
+[English version here](./README-en.md).
+
 Bienvenidos al desafío Hackathon AwesomeFest 2021.
 
 Desde ahora y hasta el Miércoles 15 de Diciembre tendrán la oportunidad de demostrar su creatividad y habilidades en diseño y programación compitiendo por uno de los premios en la hackathon del AwesomeFest 2021. A continuación podrán encontrar las bases y reglas de la competencia.
