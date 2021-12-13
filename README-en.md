@@ -34,7 +34,7 @@ The scope and documentation on how to interact with the API can be found on the 
 
 We will be answering questions on the Get on Board Discord server. You and your team can join at [http://www.awesomefest.co/discord](http://www.awesomefest.co/discord).
 
-Note: Registered teams will receive support from our sponsors directly on their private channels.
+Note: Registered teams will receive support from the mentors directly on their private channels.
 
 Unregistered people or teams who still want to participate in the challenge, can post their questions in the open channel #awesome-fest.
 
