@@ -20,7 +20,7 @@ El desafío es sencillo: Deben crear un software que interactúe con los datos d
 
 Puede ser una aplicación web o móvil, un servicio, un bot, un juego, o cualquier cosa que juegue con los datos y posibilidades que ofrece nuestra API, así como datos o información de otras fuentes públicas.
 
-***El cielo y tu imaginación son los únicos límites.****
+***El cielo y tu imaginación son los únicos límites.***
 
 ## 🛠 Herramientas, lenguajes, frameworks o librerías permitidas
 
@@ -30,11 +30,11 @@ Todo en este mundo. No hay restricción alguna. Puedes usar herramientas low-cod
 
 ### API
 
-El alcance y la documentación de cómo interactuar con la API la pueden encontrar en el sitio web http://api-doc.getonbrd.com/.
+El alcance y la documentación de cómo interactuar con la API la pueden encontrar en el sitio web https://api-doc.getonbrd.com/.
 
 ### La hackatón es 100% virtual y sucederá en nuestro servidor de Discord
 
-Estaremos resolviendo dudas en el servidor de Discord de Get on Board. Tú y tu equipo pueden unirse en http://www.awesomefest.co/discord.
+Estaremos resolviendo dudas en el servidor de Discord de Get on Board. Tú y tu equipo pueden unirse en https://www.awesomefest.co/discord.
 
 Nota: Los equipos registrados recibirán soporte de los mentores directamente en sus canales privados.
 
@@ -54,7 +54,7 @@ Nada complicado:
 
 Creen un repositorio (que deberá ser público el día de la entrega) en GitHub con su solución. Les recomendamos que lo usen además como parte del desarrollo, para que entre todos los integrantes del equipo puedan colaborar.
 
-Para soluciones no-code o low-code incluye solo el README.
+Para soluciones no-code o low-code incluye solo el README y el link al video.
 
 ### Licencia
 
@@ -62,7 +62,7 @@ La licencia no puede ser otra que la incluida en este repositorio, por lo que de
 
 ### Documentación de la solución
 
-Expláyense explicando qué hace su solución, agreguen capturas de pantalla y un link ****público**** a un video de demostración.
+Expláyense explicando qué hace su solución, agreguen capturas de pantalla y un link **público** a un video de demostración.
 
 ### Video
 
