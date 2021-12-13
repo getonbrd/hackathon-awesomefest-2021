@@ -6,8 +6,8 @@ From now until Wednesday, December 15th, you will have the opportunity to demons
 
 ## 🗓 Important dates
 
-- Monday, December 13th at 3 PM UTC: Competition begins!
-- Wednesday, December 15 at 2:50 AM UTC: Solution submission!
+- Monday, December 13 at 3 PM UTC: Competition begins!
+- Tusday, December 14 at 2:50 AM UTC: Solution submission!
 - Thursday, December 16 at the end of AwesomeFest: Winners announced!
 
 Note: Times are in UTC so please convert to your local time.
